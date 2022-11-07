@@ -1,0 +1,1 @@
+[{"type":50,"menuName":"页面1","title":"页面1","icon":"","id":"dO7E2y9wmY","key":"2ba3a50cf622","url":"","blank":false,"visible":true,"acl":{"read":["roleName:管理员","roleName:用户"],"owner":{"write":true,"delete":true},"roleName:用户":{"read":true},"roleName:管理员":{"read":true,"write":true,"delete":true}},"config":null,"children":[]}]
